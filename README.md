@@ -131,7 +131,7 @@ sns.heatmap(cm, annot=True)
 ```
 <table>
   <tr>
-    <td><img src="./images/confusion-matrix.png"  width="600"></td>
+    <td><img src="./images/Confusion-matrix.png"  width="600"></td>
   </tr>
 </table>
 
